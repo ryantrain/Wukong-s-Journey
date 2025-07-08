@@ -1,0 +1,1 @@
+Hello, you will need to install Java Processing. There is a complicated procedure on how to do that for code editors like Visual Studio Code. I will not be going through a step-by-step process on how to do that unfortunately. If you are interested, you will need to figure out how to install it on your own.
